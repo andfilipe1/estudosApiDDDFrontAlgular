@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kGbBQuniHII7//Mx4EhQaBlK233y75fmMaJiLBouK4Yhs5A/0Ee5PfkeECsJhHlRnLzUpwfiVnCcCgeoVGN1qQ==",
+  "dgSpecHash": "d4QM5wx3T3Gn7hQO1w+cK0fvqBDPLveaEdMDMn3GGPcsnLQkqWy5MprVzqZTBXMj4ricR/WoIM1QWUPC1c+7fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Domain.Core\\Domain.Core.csproj",
+  "projectFilePath": "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Domain.Core\\Domain.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

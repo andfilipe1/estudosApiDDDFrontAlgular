@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Data.Repository\\Data.Repository.csproj": {}
+    "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Data.Repository\\Data.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Application.Service\\Application.Service.csproj": {
+    "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Application.Service\\Application.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Application.Service\\Application.Service.csproj",
+        "projectUniqueName": "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Application.Service\\Application.Service.csproj",
         "projectName": "Application.Service",
-        "projectPath": "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Application.Service\\Application.Service.csproj",
-        "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Application.Service\\obj\\",
+        "projectPath": "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Application.Service\\Application.Service.csproj",
+        "packagesPath": "C:\\Users\\waka\\.nuget\\packages\\",
+        "outputPath": "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Application.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\waka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://git-codecommit.us-east-2.amazonaws.com/v1/repos/PRJ_COMMON": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Domain.Model\\Domain.Model.csproj": {
-                "projectPath": "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Domain.Model\\Domain.Model.csproj"
+              "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Domain.Model\\Domain.Model.csproj": {
+                "projectPath": "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Domain.Model\\Domain.Model.csproj"
               }
             }
           }
@@ -82,17 +81,17 @@
         }
       }
     },
-    "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Data.Repository\\Data.Repository.csproj": {
+    "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Data.Repository\\Data.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Data.Repository\\Data.Repository.csproj",
+        "projectUniqueName": "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Data.Repository\\Data.Repository.csproj",
         "projectName": "Data.Repository",
-        "projectPath": "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Data.Repository\\Data.Repository.csproj",
-        "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Data.Repository\\obj\\",
+        "projectPath": "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Data.Repository\\Data.Repository.csproj",
+        "packagesPath": "C:\\Users\\waka\\.nuget\\packages\\",
+        "outputPath": "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Data.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\waka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,15 +99,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://git-codecommit.us-east-2.amazonaws.com/v1/repos/PRJ_COMMON": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Application.Service\\Application.Service.csproj": {
-                "projectPath": "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Application.Service\\Application.Service.csproj"
+              "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Application.Service\\Application.Service.csproj": {
+                "projectPath": "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Application.Service\\Application.Service.csproj"
               }
             }
           }
@@ -160,17 +158,17 @@
         }
       }
     },
-    "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Domain.Model\\Domain.Model.csproj": {
+    "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Domain.Model\\Domain.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Domain.Model\\Domain.Model.csproj",
+        "projectUniqueName": "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Domain.Model\\Domain.Model.csproj",
         "projectName": "Domain.Model",
-        "projectPath": "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Domain.Model\\Domain.Model.csproj",
-        "packagesPath": "C:\\Users\\luizb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Domain.Model\\obj\\",
+        "projectPath": "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Domain.Model\\Domain.Model.csproj",
+        "packagesPath": "C:\\Users\\waka\\.nuget\\packages\\",
+        "outputPath": "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Domain.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\waka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -178,8 +176,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://git-codecommit.us-east-2.amazonaws.com/v1/repos/PRJ_COMMON": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {

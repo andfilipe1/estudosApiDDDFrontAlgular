@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qYIJV1ETeuysF1kJpfh8+TiK1GkPu/Q3OTKAOrmScerQDeMoV0MA3Bgb7oI4y6zHhH/eciwP4hNncPzPr7YPnQ==",
+  "dgSpecHash": "LM4w1chuYIyxutcu9j3QB7IRXlGzl8YnIdQ3KyX6U5OUbfP6pHsjzA4/Kzl7YuoIuMNn0dT4Ke0gdTNs+CkhNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luizb\\OneDrive\\Documentos\\Aulas\\COTI\\Demos\\Desafio\\Api Movimento Manual\\Infrastructure.Crosscutting\\Infrastructure.Crosscutting.csproj",
+  "projectFilePath": "C:\\brandao\\estudosApiDDDFrontAlgular\\Api Movimento Manual\\Infrastructure.Crosscutting\\Infrastructure.Crosscutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

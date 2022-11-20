@@ -35,17 +35,23 @@ export class AppComponent implements OnInit {
 
   movimentoForm: FormGroup; 
 
+  isEnable: boolean;
+
   displayedColumns: string[] = ['mes', 'ano', 'codigoProduto', 'descricaoProduto', 'nrLancamento', 'descricao', 'valor'];
   dataSource$!: Observable<MovimentoManualTable[]>;
   
   constructor(private movimentoManualService: MovimentoManualService) {
+
+    this.isEnable = false;
+
     this.movimentoForm = new FormGroup({
-      mes: new FormControl(''),
-      ano: new FormControl(''),
-      produto: new FormControl(''),
-      cosif: new FormControl(''),
-      valor: new FormControl(''),
-      descricao: new FormControl(''),
+      codigoProduto: new FormControl({ value: '', disabled: !this.isEnable }),
+      mes: new FormControl({ value: '', disabled: !this.isEnable }),
+      ano: new FormControl({ value: '', disabled: !this.isEnable }),
+      produto: new FormControl({ value: '', disabled: !this.isEnable }),
+      cosif: new FormControl({ value: '', disabled: !this.isEnable }),
+      valor: new FormControl({ value: '', disabled: !this.isEnable }),
+      descricao: new FormControl({ value: '', disabled: !this.isEnable }),
     });
   }
 
@@ -58,10 +64,35 @@ export class AppComponent implements OnInit {
     const movimento: MovimentoManual = this.movimentoForm.value as MovimentoManual;
 
     this.movimentoManualService.post(movimento).then(() => this.getMovimentos());
+
+    this.isEnable = false;
+    this.clean();
   }
 
   getMovimentos() {
     this.dataSource$ = this.movimentoManualService.get();
+  }
+
+  getProducts() {
+    this.dataSource$ = this.movimentoManualService.get();
+  }
+
+  toggleIsEnable() {
+    this.isEnable = !this.isEnable;
+
+    this.clean();
+  }
+
+  clean() {
+    this.movimentoForm = new FormGroup({
+      codigoProduto: new FormControl({ value: '', disabled: !this.isEnable }),
+      mes: new FormControl({ value: '', disabled: !this.isEnable }),
+      ano: new FormControl({ value: '', disabled: !this.isEnable }),
+      produto: new FormControl({ value: '', disabled: !this.isEnable }),
+      cosif: new FormControl({ value: '', disabled: !this.isEnable }),
+      valor: new FormControl({ value: '', disabled: !this.isEnable }),
+      descricao: new FormControl({ value: '', disabled: !this.isEnable }),
+    });
   }
 
 }
