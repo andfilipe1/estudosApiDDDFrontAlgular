@@ -1,0 +1,44 @@
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\bin\Debug\net6.0\Infrastructure.Crosscutting.deps.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\bin\Debug\net6.0\Infrastructure.Crosscutting.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\bin\Debug\net6.0\Infrastructure.Crosscutting.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\bin\Debug\net6.0\Microsoft.Data.Tools.Utilities.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\bin\Debug\net6.0\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\bin\Debug\net6.0\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\bin\Debug\net6.0\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\bin\Debug\net6.0\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\bin\Debug\net6.0\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.csproj.AssemblyReference.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.AssemblyInfoInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.AssemblyInfo.cs
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.csproj.CoreCompileInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.csproj.CopyComplete
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\obj\Debug\net6.0\refint\Infrastructure.Crosscutting.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Infrastructure.Crosscutting\obj\Debug\net6.0\ref\Infrastructure.Crosscutting.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\bin\Debug\net6.0\Infrastructure.Crosscutting.deps.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\bin\Debug\net6.0\Infrastructure.Crosscutting.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\bin\Debug\net6.0\Infrastructure.Crosscutting.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\bin\Debug\net6.0\Microsoft.Data.Tools.Utilities.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\bin\Debug\net6.0\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\bin\Debug\net6.0\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\bin\Debug\net6.0\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\bin\Debug\net6.0\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\bin\Debug\net6.0\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.csproj.AssemblyReference.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.AssemblyInfoInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.AssemblyInfo.cs
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.csproj.CoreCompileInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.csproj.CopyComplete
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\obj\Debug\net6.0\refint\Infrastructure.Crosscutting.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\obj\Debug\net6.0\Infrastructure.Crosscutting.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Infrastructure.Crosscutting\obj\Debug\net6.0\ref\Infrastructure.Crosscutting.dll

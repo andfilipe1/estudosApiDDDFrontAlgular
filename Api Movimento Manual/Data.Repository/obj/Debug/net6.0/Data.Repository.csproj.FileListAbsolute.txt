@@ -1,0 +1,34 @@
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\bin\Debug\net6.0\Data.Repository.deps.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\bin\Debug\net6.0\Data.Repository.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\bin\Debug\net6.0\Data.Repository.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\bin\Debug\net6.0\Application.Service.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\bin\Debug\net6.0\Domain.Model.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\bin\Debug\net6.0\Application.Service.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\bin\Debug\net6.0\Domain.Model.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\obj\Debug\net6.0\Data.Repository.csproj.AssemblyReference.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\obj\Debug\net6.0\Data.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\obj\Debug\net6.0\Data.Repository.AssemblyInfoInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\obj\Debug\net6.0\Data.Repository.AssemblyInfo.cs
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\obj\Debug\net6.0\Data.Repository.csproj.CoreCompileInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\obj\Debug\net6.0\Data.Repository.csproj.CopyComplete
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\obj\Debug\net6.0\Data.Repository.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\obj\Debug\net6.0\refint\Data.Repository.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\obj\Debug\net6.0\Data.Repository.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Data.Repository\obj\Debug\net6.0\ref\Data.Repository.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\bin\Debug\net6.0\Data.Repository.deps.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\bin\Debug\net6.0\Data.Repository.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\bin\Debug\net6.0\Data.Repository.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\bin\Debug\net6.0\Application.Service.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\bin\Debug\net6.0\Domain.Model.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\bin\Debug\net6.0\Application.Service.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\bin\Debug\net6.0\Domain.Model.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\obj\Debug\net6.0\Data.Repository.csproj.AssemblyReference.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\obj\Debug\net6.0\Data.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\obj\Debug\net6.0\Data.Repository.AssemblyInfoInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\obj\Debug\net6.0\Data.Repository.AssemblyInfo.cs
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\obj\Debug\net6.0\Data.Repository.csproj.CoreCompileInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\obj\Debug\net6.0\Data.Repository.csproj.CopyComplete
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\obj\Debug\net6.0\Data.Repository.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\obj\Debug\net6.0\refint\Data.Repository.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\obj\Debug\net6.0\Data.Repository.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Data.Repository\obj\Debug\net6.0\ref\Data.Repository.dll

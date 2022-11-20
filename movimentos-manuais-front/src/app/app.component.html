@@ -1,0 +1,146 @@
+<div>
+  <mat-toolbar color="primary">
+    <button mat-icon-button>
+      <mat-icon>menu</mat-icon>
+    </button>
+    <span>BNP Paribas</span>
+  </mat-toolbar>
+
+  <div>
+    <h1>Movimentos Manuais</h1>
+    <div>
+      <mat-card>
+        <mat-card-title>Movimento</mat-card-title>
+        <mat-card-subtitle>Adicione um novo movimento</mat-card-subtitle>
+
+        <mat-card-content>
+          <form [formGroup]="movimentoForm">
+            <div>
+
+              <mat-form-field hintLabel="Apenas Numeros" appearance="outline">
+                <mat-label>Codigo Produto</mat-label>
+                <input formControlName="codigoProduto" matInput type="number" placeholder="1">
+                <mat-hint align="end">Entre com o Codigo do Produto</mat-hint>
+              </mat-form-field>
+            </div>
+            <div>  
+
+              <mat-form-field hintLabel="Valores de 1 a 12" appearance="outline">
+                <mat-label>Mês</mat-label>
+                <input formControlName="mes" matInput type="number" #monthInput min="1" max="12" placeholder="1">
+                <mat-hint align="end">{{ (+monthInput.value  < 1  || +monthInput.value > 12 ? "INVALIDO" : "&#x2714;") }}</mat-hint>
+              </mat-form-field>
+
+              <mat-form-field hintLabel="4 dígitos" appearance="outline">
+                <mat-label>Ano</mat-label>
+                <input formControlName="ano" matInput type="number" #yearInput minlength="4" maxlength="4" placeholder="1">
+                <mat-hint align="end">{{ yearInput.value.length == 4 ? "&#x2714;" : (yearInput.value.length + "/4") }}</mat-hint>
+              </mat-form-field>
+            </div>
+
+            <div>
+              <mat-form-field appearance="outline">
+                <mat-label>Produto</mat-label>
+                <mat-select formControlName="produto">
+                  <mat-option value="option1">Option1</mat-option>
+                  <mat-option value="option2">Option2</mat-option>
+                </mat-select>
+                <mat-hint>Selecione Produto</mat-hint>
+              </mat-form-field>
+
+              <mat-form-field appearance="outline">
+                <mat-label>Cosif</mat-label>
+                <mat-select formControlName="cosif">
+                  <mat-option value="option1">Option1</mat-option>
+                  <mat-option value="option2">Option2</mat-option>
+                </mat-select>
+                <mat-hint>Selecione Cosif</mat-hint>
+              </mat-form-field>
+            </div>
+
+            <div>
+              <mat-form-field appearance="outline">
+                <mat-label>Valor</mat-label>
+                <input formControlName="valor" matInput type="number" #valueInput placeholder="1">
+                <mat-hint >Valor do Movimento</mat-hint>
+              </mat-form-field>
+            </div>
+            <div>
+              <mat-form-field appearance="outline">
+                <mat-label>Descrição</mat-label>
+                <textarea formControlName="descricao" matInput></textarea>
+              </mat-form-field>
+            </div>
+          </form>
+        </mat-card-content>
+
+
+        <mat-card-actions align="end">
+          <button mat-flat-button color="warn">
+            <mat-icon>cleaning_services</mat-icon>
+            LIMPAR
+          </button>
+          <button (click)="addMovimento()" mat-flat-button color="primary">
+            <mat-icon>library_add</mat-icon>
+            INCLUIR
+          </button>
+        </mat-card-actions>
+
+      </mat-card>
+    </div>
+    <div>
+      <mat-card>
+        <mat-card-title>Lista</mat-card-title>
+        <mat-card-subtitle>Movimentos</mat-card-subtitle>
+        <mat-card-content>
+          <table mat-table [dataSource]="(dataSource$ | async)!">
+
+            <ng-container matColumnDef="codproduto">
+              <th mat-header-cell *matHeaderCellDef> Codigo Produto </th>
+              <td mat-cell *matCellDef="let element"> {{element.mes}} </td>
+            </ng-container>
+
+            <ng-container matColumnDef="mes">
+              <th mat-header-cell *matHeaderCellDef> Mês </th>
+              <td mat-cell *matCellDef="let element"> {{element.mes}} </td>
+            </ng-container>
+          
+            <ng-container matColumnDef="ano">
+              <th mat-header-cell *matHeaderCellDef> Ano </th>
+              <td mat-cell *matCellDef="let element"> {{element.ano}} </td>
+            </ng-container>
+          
+            <ng-container matColumnDef="codigoProduto">
+              <th mat-header-cell *matHeaderCellDef> Código do Produto </th>
+              <td mat-cell *matCellDef="let element"> {{element.codigoProduto}} </td>
+            </ng-container>
+          
+            <ng-container matColumnDef="descricaoProduto">
+              <th mat-header-cell *matHeaderCellDef> Descrição do Produto </th>
+              <td mat-cell *matCellDef="let element"> {{element.descricaoProduto}} </td>
+            </ng-container>
+
+            <ng-container matColumnDef="nrLancamento">
+              <th mat-header-cell *matHeaderCellDef> NR Lançamento </th>
+              <td mat-cell *matCellDef="let element"> {{element.nrLancamento}} </td>
+            </ng-container>
+            
+            <ng-container matColumnDef="descricao">
+              <th mat-header-cell *matHeaderCellDef> Descrição </th>
+              <td mat-cell *matCellDef="let element"> {{element.descricao}} </td>
+            </ng-container>
+
+            <ng-container matColumnDef="valor">
+              <th mat-header-cell *matHeaderCellDef> Valor </th>
+              <td mat-cell *matCellDef="let element"> {{element.valor}} </td>
+            </ng-container>
+          
+            <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+            <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+          </table>
+          
+        </mat-card-content>
+      </mat-card>
+    </div>
+  </div>
+</div>

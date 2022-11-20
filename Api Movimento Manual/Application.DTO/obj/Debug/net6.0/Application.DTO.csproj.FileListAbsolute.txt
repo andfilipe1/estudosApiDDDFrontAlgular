@@ -1,0 +1,24 @@
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.DTO\bin\Debug\net6.0\Application.DTO.deps.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.DTO\bin\Debug\net6.0\Application.DTO.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.DTO\bin\Debug\net6.0\Application.DTO.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.DTO\obj\Debug\net6.0\Application.DTO.csproj.AssemblyReference.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.DTO\obj\Debug\net6.0\Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.DTO\obj\Debug\net6.0\Application.DTO.AssemblyInfoInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.DTO\obj\Debug\net6.0\Application.DTO.AssemblyInfo.cs
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.DTO\obj\Debug\net6.0\Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.DTO\obj\Debug\net6.0\Application.DTO.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.DTO\obj\Debug\net6.0\refint\Application.DTO.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.DTO\obj\Debug\net6.0\Application.DTO.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Application.DTO\obj\Debug\net6.0\ref\Application.DTO.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.DTO\bin\Debug\net6.0\Application.DTO.deps.json
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.DTO\bin\Debug\net6.0\Application.DTO.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.DTO\bin\Debug\net6.0\Application.DTO.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.DTO\obj\Debug\net6.0\Application.DTO.csproj.AssemblyReference.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.DTO\obj\Debug\net6.0\Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.DTO\obj\Debug\net6.0\Application.DTO.AssemblyInfoInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.DTO\obj\Debug\net6.0\Application.DTO.AssemblyInfo.cs
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.DTO\obj\Debug\net6.0\Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.DTO\obj\Debug\net6.0\Application.DTO.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.DTO\obj\Debug\net6.0\refint\Application.DTO.dll
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.DTO\obj\Debug\net6.0\Application.DTO.pdb
+C:\Users\luizb\OneDrive\Documentos\Aulas\COTI\Demos\Desafio\Api Movimento Manual\Application.DTO\obj\Debug\net6.0\ref\Application.DTO.dll
